@@ -12,7 +12,7 @@ The program is a C program about **Shop Product Managerment** for Salers
 6. Exit Program
 
 # How to run
-- Download and compile the app.c program
-
+- Download and compile the finalTest.c program
+- Recommend using Linux GCC GNU environment to compile the code properly.
 
 
